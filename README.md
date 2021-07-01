@@ -1,2 +1,8 @@
 # FOSS-accessibility-hub
-People can open issues here for accessibility problems with any FOSS project! One spot for all issues might make working on it easier. You can also find accessibility guides here!
+Do you want to work on accessibility, but don't know what to do? Anyone can open an issue here for a accessibility issue for any FOSS project. So if you want to work on accessibility, you can find much different issues to work on here!
+
+Resources:
+- https://github.com/devinprater/ui-ux-accessibility
+- https://www.a11yproject.com/
+
+Feel free to do pull requests or to contact me if you think something can be improved!
